@@ -1,2 +1,1 @@
-# Henry-Precurso
-primer repositorio de prueba creado en github. 
+#este es un ejercicio del precourse
